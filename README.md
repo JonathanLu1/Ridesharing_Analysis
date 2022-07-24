@@ -6,6 +6,8 @@ In this project, we take the different city types that are within each state and
 
 ## Results
 
+![image](https://user-images.githubusercontent.com/107448860/180669561-980d5ffc-dbab-4637-aba6-42d122d27c13.png)
+
 From the data that we had pulled from the two CSVs, we can see that there is a significant difference between the three different types of cities. 
 
 ![image](https://user-images.githubusercontent.com/107448860/180667748-9899a3ea-ec2a-4525-bf5c-37996c92b3fb.png)
@@ -26,4 +28,4 @@ We can see that the sample size from the urban population is the highest and has
 
 ![image](https://user-images.githubusercontent.com/107448860/180668030-010a5453-d7be-4597-99da-9ec96c3badf3.png)
 
-It will be much easier to penetrate the suburban and rural market, whereas the urban market is far too dense. 
+It will be much easier to penetrate the suburban and rural market, whereas the urban market is far too dense. There is a chance to make money in the urban market, but the amount of competition will make it hard and you will have to work extremely hard. 
